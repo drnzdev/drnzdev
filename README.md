@@ -10,10 +10,10 @@
 
 I'm a back-end developer passionate about **high performance, software architecture, and scalability**. My focus is on building robust APIs, optimizing systems, and ensuring the best user experience through well-structured solutions.
 
-- 🔭 Currently working on **distributed systems and microservices**.
+- 🔭 Currently learning more about **NestJS**.
 - 🌱 Exploring **Cloud Computing and event-driven architecture**.
 - 📌 Passionate about **code optimization, databases, and system design**.
-- 💬 Ask me about **Node.js, Express, TypeScript, JavaScript, databases, and back-end architecture**.
+- 💬 Ask me about **Node.js, Express, TypeScript, JavaScript, databases, and back-end architecture** and more...
 
 ---
 
