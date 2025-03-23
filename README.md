@@ -13,7 +13,7 @@ I'm a back-end developer passionate about **high performance, software architect
 - 🔭 Currently working on **distributed systems and microservices**.
 - 🌱 Exploring **Cloud Computing and event-driven architecture**.
 - 📌 Passionate about **code optimization, databases, and system design**.
-- 💬 Ask me about **Node.js, Express, Typescript, Javascript, databases, and back-end architecture**.
+- 💬 Ask me about **Node.js, Express, TypeScript, JavaScript, databases, and back-end architecture**.
 
 ---
 
@@ -21,10 +21,10 @@ I'm a back-end developer passionate about **high performance, software architect
 
 ### 🔹 Languages & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Javascript](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![NextJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### 🔹 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -40,7 +40,7 @@ I'm a back-end developer passionate about **high performance, software architect
 ### 🔹 Tools
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Windows](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
