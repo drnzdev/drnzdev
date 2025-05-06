@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=drnz&color=006bed)
 
-# 👋 Hello, I'm Drnz!
+# 👋 Hello, I'm ddrnz!
 
 💻 **Back-end Developer** | Building efficient and scalable solutions.
 
