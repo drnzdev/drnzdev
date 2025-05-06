@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=drnz&color=006bed)
+![Profile Views](https://komarev.com/ghpvc/?username=ddrnz&color=006bed)
 
 # 👋 Hello, I'm ddrnz!
 
@@ -49,13 +49,13 @@ I'm a back-end developer passionate about **high performance, software architect
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=drnz&theme=dark&hide_border=false&include_all_commits=true" alt="Github Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ddrnz&theme=dark&hide_border=false&include_all_commits=true" alt="Github Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drnz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddrnz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=drnz&theme=dark&hide_border=false" alt="Streak Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddrnz&theme=dark&hide_border=false" alt="Streak Stats" />
     </td>
   </tr>
 </table>
@@ -64,6 +64,6 @@ I'm a back-end developer passionate about **high performance, software architect
 
 ## 📫 Where to Find Me
 
-[![Gmail](https://img.shields.io/badge/-drnz@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:drnz@email.com)](mailto:drnz@email.com)
-[![GitHub](https://img.shields.io/github/followers/drnz?label=follow&style=social)](https://github.com/drnz)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/drnz)
+[![Gmail](https://img.shields.io/badge/-ddrnz@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:drnz@email.com)](mailto:ddrnz@email.com)
+[![GitHub](https://img.shields.io/github/followers/drnz?label=follow&style=social)](https://github.com/ddrnz)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ddrnz)
